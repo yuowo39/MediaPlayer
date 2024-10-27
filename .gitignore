@@ -1,0 +1,12 @@
+# JetBrains IDEs
+.idea/
+
+# Build
+bin/
+obj/
+
+# Packages
+packages/
+
+# Configurations
+MediaPlayer.sln.DotSettings.user
